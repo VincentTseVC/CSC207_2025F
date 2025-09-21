@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 public class Gui {
     public static void main(String[] args) {
-
+        // Hello, my name is 6330.
         SwingUtilities.invokeLater(() -> {
 
 

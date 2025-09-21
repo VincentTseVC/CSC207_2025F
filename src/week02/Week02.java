@@ -1,6 +1,5 @@
 package week02;
 
-
 // This is updated on BranchTest
 public class Week02 {
 
