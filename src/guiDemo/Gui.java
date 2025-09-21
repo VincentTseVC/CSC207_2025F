@@ -50,7 +50,7 @@ public class Gui {
             mainPanel.add(lastNamePanel);
             mainPanel.add(buttonPanel);
 
-
+            // Hello, My name is 5213
             JFrame frame = new JFrame("Intro JFrame Example");
             frame.setMinimumSize(new java.awt.Dimension(300, 200));
             frame.setContentPane(mainPanel); // ***
